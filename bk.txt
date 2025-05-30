@@ -1,5 +1,7 @@
 https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in-ubuntu-linux.html
 
+https://www.mediafire.com/file/7xnr8wpt6pc04sh/lib.zip/file
+
 
 	private static final String PROXY_HOST = "ip.mproxy.vn";
 	private static final int PROXY_PORT = 12335;
