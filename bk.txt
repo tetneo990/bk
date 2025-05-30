@@ -3,6 +3,8 @@ https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in
 https://www.mediafire.com/file/7xnr8wpt6pc04sh/lib.zip/file
 
 
+ unzip whatever.war
+
 java -cp "sample.jar;dependecy.jar" com.sample.ClassName 
 
 java -cp <jar_name.jar:libs/*> com.test.App
