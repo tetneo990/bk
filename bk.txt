@@ -1,2 +1,33 @@
 https://www.computernetworkingnotes.com/linux-tutorials/how-to-update-firefox-in-ubuntu-linux.html
 
+
+	private static final String PROXY_HOST = "ip.mproxy.vn";
+	private static final int PROXY_PORT = 12335;
+	private static final String USERNAME = "tetneo90";
+	private static final String PASSWORD = "aGAdRHy4zq45GZt";
+
+	private static final String reset = "https://mproxy.vn/capi/wB62yfqZ_vwg0kpB1fQlXOdv4v_Y4afPxDqFQOR5Iy0/key/aGAdRHy4zq45GZt/resetIp";
+
+
+----------------------------------------------------------
+
+
+private static final String PROXY_HOST = "ip.mproxy.vn";
+	private static final int PROXY_PORT = 12329;
+	private static final String USERNAME = "tetneo90";
+	private static final String PASSWORD = "xijz3MBwllGph5yO";
+
+	private static final String reset = "https://mproxy.vn/capi/wB62yfqZ_vwg0kpB1fQlXOdv4v_Y4afPxDqFQOR5Iy0/key/xijz3MBwllGph5yO/resetIp";
+
+
+-----------------------------------------------
+
+
+private static final String PROXY_HOST = "ip.mproxy.vn";
+	private static final int PROXY_PORT = 12348;
+	private static final String USERNAME = "tetneo90";
+	private static final String PASSWORD = "3Qf7hJiG0geWhFQG";
+
+	private static final String reset = "https://mproxy.vn/capi/wB62yfqZ_vwg0kpB1fQlXOdv4v_Y4afPxDqFQOR5Iy0/key/3Qf7hJiG0geWhFQG/resetIp";
+
+
